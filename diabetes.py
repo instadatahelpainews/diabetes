@@ -27,7 +27,7 @@ def diabest_prediction(input_data):
 def main():
    
    #title
-   st.title('Diabetes Prediction Web Application')
+   st.title('Diabetes Prediction Test Application')
 
    #Getting the inoput data from the user
    Pregnancies = st.text_input('Number of Pregnancies')
